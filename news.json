@@ -1,0 +1,16 @@
+{
+    "news": [
+    {
+             "title" : "Panama",
+             "image" : "panama_visita.png",
+             "descripcion" : "panama - texto descriptivo de la noticia..."
+    
+    },
+             {
+             "title" : "COLABORACIÓN JEREZ",
+             "image" : "jerez.png",
+             "descripcion" : "jerez ... texto descriptivo de la noticia..."
+             
+             },
+    ]
+}
